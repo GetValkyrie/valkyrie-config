@@ -1,6 +1,8 @@
 VALKYRIE-CONFIG
 ===============
 
+[![Build Status](https://travis-ci.org/GetValkyrie/valkyrie-config.svg?branch=master)](https://travis-ci.org/GetValkyrie/valkyrie-config)
+
 This is a small utility to load configuration files from multiple locations and
 merge the resulting settings. It is intended to allow configuration for Vagrant
 to live in YAML files.
